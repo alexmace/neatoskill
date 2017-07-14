@@ -1,0 +1,42 @@
+{
+	"intents": [
+		{
+			"intent": "StartCleaning",
+			"slots": []
+		},
+		{
+			"intent": "StopCleaning",
+			"slots": []
+		},
+		{
+			"intent": "PauseCleaning",
+			"slots": []
+		},
+		{
+			"intent": "ReturnToBase",
+			"slots": []
+		},
+		{
+			"intent": "ResumeCleaning",
+			"slots": []
+		},
+		{
+			"intent": "ReturnToBase",
+			"slots": []
+		},
+		{
+			"intent": "CleanSpot",
+			"slots": [{"name": "Area", "type": "AMAZON.NUMBER" }]
+		},
+		{
+			"intent": "DeepCleanSpot",
+			"slots": [{"name": "Area", "type": "AMAZON.NUMBER" }]
+		},
+		{
+			"intent": "AMAZON.HelpIntent"
+		},
+		{
+			"intent": "AMAZON.StopIntent"
+		}
+	]
+}

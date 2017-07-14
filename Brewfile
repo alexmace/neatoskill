@@ -1,0 +1,5 @@
+tap 'homebrew/php'
+cask_args appdir: '/Applications'
+cask 'vagrant'
+cask 'virtualbox'
+brew 'composer'

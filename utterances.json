@@ -1,0 +1,47 @@
+StartCleaning start
+StartCleaning start vacuuming
+StartCleaning start hoovering
+StartCleaning clean up
+StartCleaning clear up
+StartCleaning clean
+StartCleaning tidy
+StartCleaning tidy up
+StopCleaning stop
+StopCleaning stop cleaning
+StopCleaning stop vacuuming
+StopCleaning stop hoovering
+StopCleaning stop tidying
+PauseCleaning pause
+PauseCleaning pause cleaning
+ResumeCleaning resume
+ResumeCleaning resume cleaning
+ResumeCleaning continue
+ResumeCleaning continue cleaning
+ReturnToBase go home
+ReturnToBase charge
+ReturnToBase return to charger
+ReturnToBase return to base
+ReturnToBase return to home
+ReturnToBase go back to base
+ReturnToBase go back to charger
+ReturnToBase go back to home
+CleanSpot clean spot
+CleanSpot clean a spot
+CleanSpot clean a {Area} metre squared spot
+CleanSpot clean a {Area} metres square spot
+CleanSpot clean a {Area} metre square spot
+CleanSpot clean area
+CleanSpot clean an area
+CleanSpot clean a {Area} metre squared area
+CleanSpot clean a {Area} metres square area
+CleanSpot clean a {Area} metre square area
+DeepCleanSpot deep clean spot
+DeepCleanSpot deep clean a spot
+DeepCleanSpot deep clean a {Area} metre squared spot
+DeepCleanSpot deep clean a {Area} metres square spot
+DeepCleanSpot deep clean a {Area} metre square spot
+DeepCleanSpot deep clean area
+DeepCleanSpot deep clean an area
+DeepCleanSpot deep clean a {Area} metre squared area
+DeepCleanSpot deep clean a {Area} metres square area
+DeepCleanSpot deep clean a {Area} metre square area
